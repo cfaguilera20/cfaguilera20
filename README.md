@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfaguilera20&show_icons=true&theme=transparent)
+
+
 <!--
 **cfaguilera20/cfaguilera20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
